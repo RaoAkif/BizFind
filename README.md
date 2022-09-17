@@ -3,9 +3,20 @@ To update the project packages:
 npm i @reduxjs/toolkit @testing-library/jest-dom @testing-library/react @testing-library/user-event eslint-config-airbnb eslint-plugin-react prop-types react react-dom react-redux react-router-dom react-scripts redux redux-logger redux-thunk web-vitals react-test-renderer
 ```
 
-# Project Name
+# API BEING USED
+[Main Repo](https://github.com/RaoAkif/RailsBusinessesAPI)
 
-> This repository contains React Redux Template.
+## BizFind - Resolving Entity Problem
+Two Businesses APIs are being used to resolve Entity Problem:
+  - Business API 1 [Link](https://github.com/RaoAkif/RailsBusinessesAPI/tree/main1)
+  - Business API 1 [Link](https://github.com/RaoAkif/RailsBusinessesAPI/tree/main2)
+  
+## BizFind - Resolving Entity Problem with Admin Panel
+
+<br><br><br>
+----------------------------------
+<br><br><br>
+
 
 ## Get Started
  * [Netlify Live](https://PROJECT_NAME-raoakif.netlify.app/)
